@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Toast Notification GitHub Solution](https://github.com/MaryAngelique/toast-notification)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
