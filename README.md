@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Toast Notification GitHub Solution](https://github.com/MaryAngelique/toast-notification)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Toast Notification Website](https://toast-notification-alpha.vercel.app/)
 
 ## My process
 
